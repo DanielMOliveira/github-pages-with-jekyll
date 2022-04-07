@@ -1,3 +1,10 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+food: Pizza
+---
+
+<h1>{{ page.food }}</h1>
 # Teste Draft 1 #
 ## Testando gitgub pages ##
 - [ ] Pode ser que funcione 
